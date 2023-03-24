@@ -1,0 +1,2 @@
+# NetEaseMineCraft-Python_API
+本来打算以模组的形式售卖的网易MC的PythonAPI接口，但是就是不给过审，干脆开源了
