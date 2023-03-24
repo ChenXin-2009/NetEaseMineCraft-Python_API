@@ -1,0 +1,42 @@
+{
+  "Source": "空白附加包",
+  "CreateVersion": "2.5.0.248352",
+  "EditVersion": "2.5.0.248352",
+  "OldEditCount": 0,
+  "NewEditCount": 3,
+  "OldComponents": [],
+  "Account": "abc870956@163.com",
+  "UserName": "C_Xin信飙君",
+  "UserId": "52222",
+  "Id": "7e6910c030f848c0b3e4574baddded0a",
+  "EditType": 2,
+  "IsMap": false,
+  "CreateNew": true,
+  "EditName": "Python",
+  "GameType": 1,
+  "WorldType": 1,
+  "Seed": "",
+  "BlockNums": [
+    0,
+    0
+  ],
+  "BornPoint": [
+    0,
+    0,
+    0
+  ],
+  "SaveBackMapPath": null,
+  "SaveBackAddOnPath": "D:\\MCStudioDownload\\work\\abc870956@163.com\\Cpp\\AddOn\\7e6910c030f848c0b3e4574baddded0a",
+  "EditAddOnPaths": [],
+  "EditMaterialPaths": [],
+  "EditLogFilePath": "D:\\MCStudioDownload\\work\\editor\\edit.log",
+  "ServerName": "EXPR",
+  "StudioPort": 9468,
+  "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+  "ShowGuide": false,
+  "AssertCacheDir": "D:\\MCStudioDownload\\EngineAssert",
+  "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
+  "ShowGpuDriverTips": false,
+  "StudioTempPath": "D:\\MCStudioDownload\\temp\\editorTemp",
+  "EditorResourcePackPath": "D:\\MCStudio\\data\\inner_res"
+}
